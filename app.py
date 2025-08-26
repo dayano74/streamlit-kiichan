@@ -10,12 +10,14 @@ with col1:
         st.write("名前: きーちゃん")
         st.write("性別: オス")
         st.write("犬種: キャバリア・キング・チャールズ・スパニエル")
-        st.write("誕生日: 2017年2月8日")
-        st.write("年齢: 8歳")
-        st.write("体重: 7kg")
+        st.write("誕生日: 2014年2月8日")
+        st.write("年齢: 11歳")
+        st.write("体重: 7.5kg")
         st.write("好きな食べ物: 肉")
         st.write("好きな遊び: 骨のおもちゃで遊ぶこと")
         st.write("性格: 食べることと寝ることが大好き")
+        st.write("一言: キャバリアが集まる保護犬団体から来ました。今は家族の一員として幸せに暮らしています。")
+        
 
 with col2:
     images = [
